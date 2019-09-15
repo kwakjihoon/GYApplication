@@ -1,4 +1,4 @@
-package com.gy.custom.config;
+package com.gy.server.http.config;
 
 
 public interface HttpConfig {

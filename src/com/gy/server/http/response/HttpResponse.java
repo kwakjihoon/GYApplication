@@ -8,7 +8,7 @@ import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.Date;
 
-import com.gy.custom.config.HttpConfig;
+import com.gy.server.http.config.HttpConfig;
 import com.gy.server.http.request.HttpGYRequest;
 import com.gy.server.http.request.HttpRequest;
 

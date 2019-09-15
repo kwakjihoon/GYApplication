@@ -7,9 +7,9 @@ import java.util.concurrent.Executors;
 
 import org.apache.log4j.Logger;
 
-import com.gy.custom.config.HttpConfig;
-import com.gy.custom.config.HttpConfigDefault;
 import com.gy.server.http.application.GYApplication;
+import com.gy.server.http.config.HttpConfig;
+import com.gy.server.http.config.HttpConfigDefault;
 
 public class GYServer extends Server{
 

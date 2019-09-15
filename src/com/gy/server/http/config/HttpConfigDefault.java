@@ -1,4 +1,4 @@
-package com.gy.custom.config;
+package com.gy.server.http.config;
 
 import java.io.File;
 import java.io.FileNotFoundException;
@@ -9,13 +9,14 @@ import java.util.Properties;
 
 import org.apache.log4j.Logger;
 
+import com.gy.common.utils.PropertiesUtils;
 import com.gy.server.GYServer;
 
 
 
 public class HttpConfigDefault implements HttpConfig{
 	
-	private static final File HTTP_CONFIG_PROPERTIES = new File("properties/http/http_config.properties");
+	private static final Properties HTTP_CONFIG_PROPERTIES = PropertiesUtils.readProperties("properties/http/http_config.properties");
 	
 	//default html files
 	static final String WELCOME_FILE;
@@ -38,30 +39,19 @@ public class HttpConfigDefault implements HttpConfig{
 		Date date = new Date();
 		logger.info("["+date+"] Init http configuration [Default configuration]");
 		
-		Properties properties = new Properties();
-		try {
-			properties.load(new FileReader(HTTP_CONFIG_PROPERTIES));
-		} catch (FileNotFoundException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} catch (IOException e) {
-			// TODO Auto-generated catch block
-			e.printStackTrace();
-		} finally {
-			
-			// exception case to-do
-		}
+		ROOT_PATH = HTTP_CONFIG_PROPERTIES.getProperty("server.http.path.root");
+		RESOURCE_PATH = HTTP_CONFIG_PROPERTIES.getProperty("server.http.path.resource");
 		
-		ROOT_PATH = properties.getProperty("server.http.path.root");
-		RESOURCE_PATH = properties.getProperty("server.http.path.resource");
 		WELCOME_FILE = RESOURCE_PATH+
-				properties.getProperty("server.http.web.welcome-file");
+				HTTP_CONFIG_PROPERTIES.getProperty("server.http.web.welcome-file");
+		
 		NOT_FOUND_FILE = RESOURCE_PATH+
-				properties.getProperty("server.http.web.not-found-file");
+				HTTP_CONFIG_PROPERTIES.getProperty("server.http.web.not-found-file");
+		
 		ERROR_FILE = RESOURCE_PATH+
-				properties.getProperty("server.http.web.error-file");
+				HTTP_CONFIG_PROPERTIES.getProperty("server.http.web.error-file");
 	
-		PORT = Integer.parseInt(properties.getProperty("server.http.port"));
+		PORT = Integer.parseInt(HTTP_CONFIG_PROPERTIES.getProperty("server.http.port"));
 		
 	}
 
@@ -73,10 +63,6 @@ public class HttpConfigDefault implements HttpConfig{
 		logger.info("WELCOME_FILE: \t"+WELCOME_FILE);
 		logger.info("NOT_FOUND_FILE: \t"+NOT_FOUND_FILE);
 		logger.info("ERROR_FILE: \t\t"+ERROR_FILE);
-	}
-
-	public File getHttpConfigProperties() {
-		return HTTP_CONFIG_PROPERTIES;
 	}
 
 	public String getWelcomeFile() {

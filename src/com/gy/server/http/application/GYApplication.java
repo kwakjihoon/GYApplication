@@ -9,8 +9,8 @@ import java.util.UUID;
 
 import org.apache.log4j.Logger;
 
-import com.gy.custom.config.HttpConfig;
-import com.gy.custom.config.HttpConfigDefault;
+import com.gy.server.http.config.HttpConfig;
+import com.gy.server.http.config.HttpConfigDefault;
 import com.gy.server.http.request.HttpGYRequest;
 import com.gy.server.http.request.HttpRequest;
 import com.gy.server.http.response.HttpResponse;
