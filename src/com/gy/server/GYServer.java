@@ -13,8 +13,6 @@ import com.gy.server.http.application.GYApplication;
 
 public class GYServer extends Server{
 
-	private static final int THREAD_CNT = 10;
-	private static final ExecutorService threadPool = Executors.newFixedThreadPool(THREAD_CNT);
 	
 	private static HttpConfig httpConfig;
 	private static final Logger logger = Logger.getLogger(GYServer.class);
@@ -46,7 +44,7 @@ public class GYServer extends Server{
 				try {
 					client = new GYApplication(serverSocket.accept(), httpConfig);
 					
-					threadPool.submit(client);
+					THREAD_POOL.submit(client);
 					
 					
 				}catch(Exception e) {

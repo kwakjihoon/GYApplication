@@ -15,7 +15,7 @@ import com.gy.server.GYServer;
 
 public class HttpConfigDefault implements HttpConfig{
 	
-	private static final File HTTP_CONFIG_PROPERTIES = new File("properties/http_config.properties");
+	private static final File HTTP_CONFIG_PROPERTIES = new File("properties/http/http_config.properties");
 	
 	//default html files
 	static final String WELCOME_FILE;

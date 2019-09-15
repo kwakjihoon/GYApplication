@@ -1,0 +1,439 @@
+14:25:19,446 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+14:25:19,446 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+14:25:19,448 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+14:25:19,448 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+14:25:19,448 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+14:25:19,459 - INFO com.jh.server.GYServer - Start server..
+14:25:21,345 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:25:21,345 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:54309, headerMap={Cache-Control=max-age=0, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:25:21,348 - INFO com.jh.server.http.application.GYApplication - ####LOSE CLIENT SOCKET####
+14:26:24,618 - INFO com.jh.custom.config.HttpConfigDefault - [Sun Sep 15 14:26:24 KST 2019] Init http configuration [Default configuration]
+14:26:24,620 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+14:26:24,620 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+14:26:24,620 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+14:26:24,622 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+14:26:24,622 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+14:26:24,622 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+14:26:24,632 - INFO com.jh.server.GYServer - Start server..
+14:26:31,424 - INFO com.jh.custom.config.HttpConfigDefault - [Sun Sep 15 14:26:31 KST 2019] Init http configuration [Default configuration]
+14:26:31,427 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+14:26:31,427 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+14:26:31,427 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+14:26:31,430 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+14:26:31,430 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+14:26:31,430 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+14:26:31,442 - INFO com.jh.server.GYServer - Start server..
+14:26:34,942 - INFO com.jh.server.http.application.GYApplication - ###########START MAIN PROCESS###########
+14:26:34,943 - INFO com.jh.server.http.application.GYApplication - ###########START MAIN PROCESS###########
+14:26:34,947 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:26:34,947 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:54312, headerMap={Cache-Control=max-age=0, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:26:34,950 - INFO com.jh.server.http.application.GYApplication - ############END MAIN PROCESS############
+14:27:02,464 - INFO com.jh.server.http.application.GYApplication - ###########START MAIN PROCESS###########
+14:27:02,465 - INFO com.jh.server.http.application.GYApplication - ###########START MAIN PROCESS###########
+14:27:02,465 - INFO com.jh.server.http.request.HttpRequest - (Fail)End Generate Request Object
+14:27:02,465 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:27:02,466 - INFO com.jh.server.http.application.GYApplication - ############END MAIN PROCESS############
+14:27:02,467 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=PROPFIND, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:54318, headerMap={Accept=*/*, Cache-Control=no-cache, User-Agent=PostmanRuntime/7.16.3, Connection=keep-alive, Postman-Token=5af7c966-91ef-4967-9dab-14e17b482cfd, Host=localhost:8080, Accept-Encoding=gzip, deflate, Content-Length=0}]
+14:27:02,467 - INFO com.jh.server.http.application.GYApplication - ############END MAIN PROCESS############
+14:27:29,742 - INFO com.jh.server.http.request.HttpRequest - (Fail)End Generate Request Object
+14:27:29,742 - INFO com.jh.server.http.application.GYApplication - ###########START MAIN PROCESS###########
+14:27:29,743 - INFO com.jh.server.http.application.GYApplication - ############END MAIN PROCESS############
+14:27:29,744 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:27:29,744 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:54321, headerMap={Cache-Control=max-age=0, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:27:29,744 - INFO com.jh.server.http.application.GYApplication - ###########START MAIN PROCESS###########
+14:27:29,745 - INFO com.jh.server.http.application.GYApplication - ############END MAIN PROCESS############
+14:27:47,255 - INFO com.jh.server.http.request.HttpRequest - (Fail)End Generate Request Object
+14:27:47,255 - INFO com.jh.server.http.application.GYApplication - ############END MAIN PROCESS############
+14:27:47,255 - INFO com.jh.server.http.application.GYApplication - ###########START MAIN PROCESS###########
+14:27:47,256 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:27:47,256 - INFO com.jh.server.http.application.GYApplication - ###########START MAIN PROCESS###########
+14:27:47,256 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:54323, headerMap={Cache-Control=max-age=0, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:27:47,258 - INFO com.jh.server.http.application.GYApplication - ############END MAIN PROCESS############
+14:28:15,081 - INFO com.jh.server.http.request.HttpRequest - (Fail)End Generate Request Object
+14:28:15,082 - INFO com.jh.server.http.application.GYApplication - ###########START MAIN PROCESS###########
+14:28:15,082 - INFO com.jh.server.http.application.GYApplication - ############END MAIN PROCESS############
+14:28:15,082 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:28:15,082 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:54325, headerMap={Cache-Control=max-age=0, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:28:15,083 - INFO com.jh.server.http.application.GYApplication - ###########START MAIN PROCESS###########
+14:28:15,083 - INFO com.jh.server.http.application.GYApplication - ############END MAIN PROCESS############
+14:28:39,119 - INFO com.jh.custom.config.HttpConfigDefault - [Sun Sep 15 14:28:39 KST 2019] Init http configuration [Default configuration]
+14:28:39,121 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+14:28:39,121 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+14:28:39,121 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+14:28:39,123 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+14:28:39,123 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+14:28:39,123 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+14:28:39,137 - INFO com.jh.server.GYServer - Start server..
+14:28:42,483 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:28:42,484 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:54328, headerMap={Cache-Control=max-age=0, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:28:47,471 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:28:47,471 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:54329, headerMap={Cache-Control=max-age=0, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:28:54,766 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:28:54,767 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:54330, headerMap={Cache-Control=max-age=0, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:28:54,927 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:28:54,928 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:54331, headerMap={Cache-Control=max-age=0, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:28:55,074 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:28:55,075 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:54332, headerMap={Cache-Control=max-age=0, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:28:55,224 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:28:55,224 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:54333, headerMap={Cache-Control=max-age=0, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:29:06,900 - INFO com.jh.server.http.request.HttpRequest - (Fail)End Generate Request Object
+14:29:06,900 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:29:06,901 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=PROPFIND, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:54336, headerMap={Accept=*/*, Cache-Control=no-cache, User-Agent=PostmanRuntime/7.16.3, Connection=keep-alive, Postman-Token=d407b9b3-c375-4ade-af24-e980b49632cb, Host=localhost:8080, Accept-Encoding=gzip, deflate, Content-Length=0}]
+14:31:01,786 - INFO com.jh.server.http.request.HttpRequest - (Fail)End Generate Request Object
+14:33:31,630 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:33:31,631 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/127.0.0.1:54366, headerMap={Accept=text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2, User-Agent=Mozilla/5.0, Connection=keep-alive, Host=localhost:8080}]
+14:34:12,403 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:34:12,403 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/127.0.0.1:54367, headerMap={Accept=text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2, User-Agent=Mozilla/5.0, Connection=keep-alive, Host=localhost:8080}]
+14:35:50,143 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:35:50,143 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/127.0.0.1:54380, headerMap={Accept=text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2, User-Agent=Mozilla/5.0, Connection=keep-alive, Host=localhost:8080}]
+14:36:07,758 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:36:07,759 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/127.0.0.1:54384, headerMap={Accept=text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2, User-Agent=Java/1.8.0_191, Connection=keep-alive, Host=localhost:8080}]
+14:36:33,192 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:36:33,193 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/127.0.0.1:54385, headerMap={Accept=text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2, User-Agent=Java/1.8.0_191, Connection=keep-alive, Host=localhost:8080}]
+14:39:41,193 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:39:41,194 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/127.0.0.1:54425, headerMap={Accept=text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2, User-Agent=Mozilla/5.0, Connection=keep-alive, Host=localhost:8080}]
+14:40:18,146 - INFO com.jh.server.http.request.HttpRequest - (Fail)End Generate Request Object
+14:40:27,648 - INFO com.jh.server.http.request.HttpRequest - (Fail)End Generate Request Object
+14:40:44,599 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:40:44,599 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/127.0.0.1:54443, headerMap={Accept=text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2, User-Agent=Mozilla/5.0, Connection=keep-alive, Host=localhost:8080}]
+14:43:06,702 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:43:06,703 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/127.0.0.1:54454, headerMap={Accept=text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2, User-Agent=Mozilla/5.0, Connection=keep-alive, Host=localhost:8080}]
+14:43:31,077 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:43:31,077 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/127.0.0.1:54455, headerMap={Accept=text/html, image/gif, image/jpeg, *; q=.2, */*; q=.2, User-Agent=Mozilla/5.0, Connection=keep-alive, Host=localhost:8080}]
+14:44:00,012 - INFO com.jh.custom.config.HttpConfigDefault - [Sun Sep 15 14:44:00 KST 2019] Init http configuration [Default configuration]
+14:44:00,014 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+14:44:00,015 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+14:44:00,015 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+14:44:00,016 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+14:44:00,017 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+14:44:00,017 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+14:44:00,028 - INFO com.jh.server.GYServer - Start server..
+14:44:04,353 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:44:04,353 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:54457, headerMap={Cache-Control=max-age=0, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:44:36,043 - INFO com.jh.server.http.request.HttpRequest - (Fail)End Generate Request Object
+14:44:36,044 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:44:36,045 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:54507, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:46:24,443 - INFO com.jh.custom.config.HttpConfigDefault - [Sun Sep 15 14:46:24 KST 2019] Init http configuration [Default configuration]
+14:46:24,445 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+14:46:24,445 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+14:46:24,445 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+14:46:24,447 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+14:46:24,447 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+14:46:24,447 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+14:46:24,458 - INFO com.jh.server.GYServer - Start server..
+14:46:27,125 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:46:27,125 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:54959, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:46:27,754 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:46:27,754 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:54960, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:47:31,848 - INFO com.jh.server.http.request.HttpRequest - (Fail)End Generate Request Object
+14:47:31,849 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:47:31,849 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:55226, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:47:32,017 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:47:32,019 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:55227, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:47:32,175 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:47:32,176 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:55228, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:47:32,349 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:47:32,350 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:55229, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:47:32,500 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:47:32,500 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:55234, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:47:32,659 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:47:32,660 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:55235, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:47:32,823 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:47:32,823 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:55236, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:47:32,991 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:47:32,992 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:55237, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:47:33,150 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:47:33,150 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:55238, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:47:33,314 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:47:33,315 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:55239, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:47:33,448 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:47:33,449 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:55240, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}]
+14:47:53,533 - INFO com.jh.server.http.request.HttpRequest - (Fail)End Generate Request Object
+14:47:53,533 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+14:47:53,535 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=COPY, protocol=HTTP/1.1, query=query, uri=/, remoteAddress=/0:0:0:0:0:0:0:1:55327, headerMap={Accept=*/*, Cache-Control=no-cache, User-Agent=PostmanRuntime/7.16.3, Connection=keep-alive, Postman-Token=2a015ea8-47bc-45c5-8b94-90a27605ca40, Host=localhost:8080, Accept-Encoding=gzip, deflate, Content-Length=0}]
+14:48:52,687 - INFO com.jh.server.http.request.HttpRequest - (Fail)End Generate Request Object
+15:17:38,799 - INFO com.jh.custom.config.HttpConfigDefault - [Sun Sep 15 15:17:38 KST 2019] Init http configuration [Default configuration]
+15:17:38,801 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+15:17:38,801 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+15:17:38,801 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+15:17:38,803 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+15:17:38,804 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+15:17:38,804 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+15:17:38,815 - INFO com.jh.server.GYServer - Start server..
+15:17:40,775 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+15:17:40,776 - INFO com.jh.server.http.application.GYApplication - com.jh.server.http.request.HttpRequest@2ad88a59
+15:18:35,822 - INFO com.jh.custom.config.HttpConfigDefault - [Sun Sep 15 15:18:35 KST 2019] Init http configuration [Default configuration]
+15:18:35,824 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+15:18:35,825 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+15:18:35,825 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+15:18:35,827 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+15:18:35,827 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+15:18:35,827 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+15:18:35,837 - INFO com.jh.server.GYServer - Start server..
+15:18:37,875 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+15:18:37,875 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=null, requestUri=/, remoteAddress=/0:0:0:0:0:0:0:1:62631, headerMap={Cache-Control=max-age=0, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}, isNormal=true]
+15:19:03,202 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+15:19:03,202 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=null, requestUri=/index.html, remoteAddress=/0:0:0:0:0:0:0:1:62738, headerMap={Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Purpose=prefetch, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}, isNormal=true]
+15:19:08,213 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+15:19:08,214 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=null, requestUri=/index.html?tmp=123, remoteAddress=/0:0:0:0:0:0:0:1:62739, headerMap={Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}, isNormal=true]
+15:24:37,962 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+15:24:37,963 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=null, requestUri=/, remoteAddress=/0:0:0:0:0:0:0:1:63990, headerMap={Accept=*/*, Cache-Control=no-cache, User-Agent=PostmanRuntime/7.16.3, Connection=keep-alive, Postman-Token=a5d38a05-47dc-45e5-bd9c-aa03ea7013db, Host=localhost:8080, Accept-Encoding=gzip, deflate}, isNormal=true]
+15:25:39,564 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+15:25:39,565 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=COPY, protocol=HTTP/1.1, query=null, requestUri=/, remoteAddress=/0:0:0:0:0:0:0:1:64246, headerMap={Accept=*/*, Cache-Control=no-cache, User-Agent=PostmanRuntime/7.16.3, Connection=keep-alive, Postman-Token=3152b109-5c7d-4a93-8527-b465703c5e67, Host=localhost:8080, Accept-Encoding=gzip, deflate, Content-Length=0}, isNormal=true]
+15:26:26,122 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+15:26:26,123 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=COPY, protocol=HTTP/1.1, query=null, requestUri=/index.html, remoteAddress=/0:0:0:0:0:0:0:1:64434, headerMap={Accept=*/*, Cache-Control=no-cache, User-Agent=PostmanRuntime/7.16.3, Connection=keep-alive, Postman-Token=89ce3da9-04a6-4552-849d-5712d0e76d67, Host=localhost:8080, Accept-Encoding=gzip, deflate, Content-Length=0}, isNormal=true]
+15:33:59,372 - INFO com.jh.custom.config.HttpConfigDefault - [Sun Sep 15 15:33:59 KST 2019] Init http configuration [Default configuration]
+15:33:59,374 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+15:33:59,374 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+15:33:59,374 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+15:33:59,376 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+15:33:59,376 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+15:33:59,377 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+15:33:59,392 - INFO com.jh.server.GYServer - Start server..
+15:34:06,417 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+15:34:06,418 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=null, requestUri=/, remoteAddress=/0:0:0:0:0:0:0:1:50060, headerMap={Cache-Control=max-age=0, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}, isNormal=true]
+15:35:03,224 - INFO com.jh.custom.config.HttpConfigDefault - [Sun Sep 15 15:35:03 KST 2019] Init http configuration [Default configuration]
+15:35:03,226 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+15:35:03,226 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+15:35:03,227 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+15:35:03,229 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+15:35:03,229 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+15:35:03,229 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+15:35:03,239 - INFO com.jh.server.GYServer - Start server..
+15:35:06,219 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+15:35:06,219 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=null, requestUri=/, remoteAddress=/0:0:0:0:0:0:0:1:50299, headerMap={Cache-Control=max-age=0, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}, isNormal=true]
+15:35:38,247 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+15:35:38,248 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=POST, protocol=HTTP/1.1, query=null, requestUri=/index.html?tmp=abcd123, remoteAddress=/0:0:0:0:0:0:0:1:50430, headerMap={Accept=*/*, Cache-Control=no-cache, User-Agent=PostmanRuntime/7.16.3, Connection=keep-alive, Postman-Token=07255ae5-b772-421c-93b6-6320e231fdc3, Host=localhost:8080, Accept-Encoding=gzip, deflate, Content-Length=0}, isNormal=true]
+15:36:20,552 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+15:36:20,554 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=POST, protocol=HTTP/1.1, query=null, requestUri=/index.html?tmp=getRequestUrigetRequestUrigetRequestUrigetRequestUrigetRequestUrigetRequestUrigetRequestUrigetRequestUrigetRequestUrigetRequestUri, remoteAddress=/0:0:0:0:0:0:0:1:50602, headerMap={Accept=*/*, Cache-Control=no-cache, User-Agent=PostmanRuntime/7.16.3, Connection=keep-alive, Postman-Token=0709c7b8-ef89-4ba9-869d-0310530bb8bc, Host=localhost:8080, Accept-Encoding=gzip, deflate, Content-Length=0}, isNormal=true]
+16:11:56,565 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+16:11:56,570 - INFO com.jh.server.http.application.GYApplication - HttpRequest [method=GET, protocol=HTTP/1.1, query=null, requestUri=/, remoteAddress=/0:0:0:0:0:0:0:1:59585, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}, isNormal=true]
+17:03:09,394 - INFO com.jh.custom.config.HttpConfigDefault - [Sun Sep 15 17:03:09 KST 2019] Init http configuration [Default configuration]
+17:03:09,397 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+17:03:09,397 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+17:03:09,397 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+17:03:09,399 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+17:03:09,399 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+17:03:09,399 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+17:03:21,420 - INFO com.jh.custom.config.HttpConfigDefault - [Sun Sep 15 17:03:21 KST 2019] Init http configuration [Default configuration]
+17:03:21,422 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+17:03:21,422 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+17:03:21,422 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+17:03:21,424 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+17:03:21,424 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+17:03:21,424 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+17:03:21,435 - INFO com.jh.server.GYServer - Start server..
+17:03:29,074 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+17:03:29,074 - ERROR com.jh.server.http.application.GYApplication - ERR (run) : Dangling meta character '?' near index 0
+?
+^
+17:03:29,075 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+17:03:29,076 - ERROR com.jh.server.http.application.GYApplication - ERR (run) : Dangling meta character '?' near index 0
+?
+^
+17:03:29,077 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+17:03:29,077 - ERROR com.jh.server.http.application.GYApplication - ERR (run) : Dangling meta character '?' near index 0
+?
+^
+17:03:29,420 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+17:03:29,420 - ERROR com.jh.server.http.application.GYApplication - ERR (run) : Dangling meta character '?' near index 0
+?
+^
+17:05:05,831 - INFO com.jh.custom.config.HttpConfigDefault - [Sun Sep 15 17:05:05 KST 2019] Init http configuration [Default configuration]
+17:05:05,833 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+17:05:05,834 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+17:05:05,834 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+17:05:05,836 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+17:05:05,836 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+17:05:05,836 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+17:05:05,846 - INFO com.jh.server.GYServer - Start server..
+17:05:08,100 - ERROR com.jh.server.http.request.HttpRequest - HEADER PARSING ERRDangling meta character '?' near index 0
+?
+^
+17:05:08,101 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+17:05:08,101 - INFO com.jh.server.http.application.GYApplication - com.jh.server.http.request.HttpRequest@6693f9cc
+17:05:28,186 - INFO com.jh.custom.config.HttpConfigDefault - [Sun Sep 15 17:05:28 KST 2019] Init http configuration [Default configuration]
+17:05:28,188 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+17:05:28,188 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+17:05:28,188 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+17:05:28,189 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+17:05:28,190 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+17:05:28,190 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+17:05:28,199 - INFO com.jh.server.GYServer - Start server..
+17:05:30,440 - ERROR com.jh.server.http.request.HttpRequest - HEADER PARSING ERRDangling meta character '?' near index 0
+?
+^
+17:05:30,441 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+17:05:30,441 - INFO com.jh.server.http.application.GYApplication - com.jh.server.http.request.HttpRequest@de481ee
+17:07:09,509 - INFO com.jh.custom.config.HttpConfigDefault - [Sun Sep 15 17:07:09 KST 2019] Init http configuration [Default configuration]
+17:07:09,511 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+17:07:09,511 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+17:07:09,511 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+17:07:09,513 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+17:07:09,513 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+17:07:09,513 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+17:07:09,524 - INFO com.jh.server.GYServer - Start server..
+17:07:11,323 - ERROR com.jh.server.http.request.HttpRequest - HEADER PARSING ERR Dangling meta character '?' near index 0
+?
+^
+17:07:11,324 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+17:07:11,324 - INFO com.jh.server.http.application.GYApplication - com.jh.server.http.request.HttpRequest@241f7172
+17:08:09,173 - INFO com.jh.custom.config.HttpConfigDefault - [Sun Sep 15 17:08:09 KST 2019] Init http configuration [Default configuration]
+17:08:09,175 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+17:08:09,176 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+17:08:09,176 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+17:08:09,177 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+17:08:09,177 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+17:08:09,178 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+17:08:09,188 - INFO com.jh.server.GYServer - Start server..
+17:08:11,387 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+17:08:11,387 - INFO com.jh.server.http.application.GYApplication - com.jh.server.http.request.HttpRequest@5b1aa632
+17:08:11,604 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+17:08:11,604 - INFO com.jh.server.http.application.GYApplication - com.jh.server.http.request.HttpRequest@3237ffa
+17:08:11,607 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+17:08:11,607 - INFO com.jh.server.http.application.GYApplication - com.jh.server.http.request.HttpRequest@61feafa
+17:09:17,011 - INFO com.jh.custom.config.HttpConfigDefault - [Sun Sep 15 17:09:17 KST 2019] Init http configuration [Default configuration]
+17:09:17,013 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+17:09:17,013 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+17:09:17,014 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+17:09:17,015 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+17:09:17,015 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+17:09:17,016 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+17:09:17,027 - INFO com.jh.server.GYServer - Start server..
+17:09:18,755 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+17:09:18,756 - DEBUG com.jh.server.http.application.GYApplication - request ########  :com.jh.server.http.request.HttpRequest@7b76de0e
+17:09:18,761 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+17:09:18,761 - DEBUG com.jh.server.http.application.GYApplication - request ########  :com.jh.server.http.request.HttpRequest@54f2da85
+17:09:18,763 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+17:09:18,763 - DEBUG com.jh.server.http.application.GYApplication - request ########  :com.jh.server.http.request.HttpRequest@d4ef01c
+17:10:10,037 - INFO com.jh.custom.config.HttpConfigDefault - [Sun Sep 15 17:10:10 KST 2019] Init http configuration [Default configuration]
+17:10:10,039 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+17:10:10,039 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+17:10:10,039 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+17:10:10,041 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+17:10:10,041 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+17:10:10,041 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+17:10:10,051 - INFO com.jh.server.GYServer - Start server..
+17:10:12,855 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+17:10:12,856 - DEBUG com.jh.server.http.application.GYApplication - request ########  :HttpRequest [method=GET, protocol=HTTP/1.1, requestUri=, remoteAddress=/0:0:0:0:0:0:0:1:56742, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}, parameterMap={TestServelt?tmp=[1], tmp=[2]}, timeStamp=Sun Sep 15 17:10:12 KST 2019, isNormal=true, hasQueryString=true]
+17:10:12,861 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+17:10:12,862 - DEBUG com.jh.server.http.application.GYApplication - request ########  :HttpRequest [method=GET, protocol=HTTP/1.1, requestUri=, remoteAddress=/0:0:0:0:0:0:0:1:56743, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}, parameterMap={TestServelt?tmp=[1], tmp=[2]}, timeStamp=Sun Sep 15 17:10:12 KST 2019, isNormal=true, hasQueryString=true]
+17:10:12,864 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+17:10:12,865 - DEBUG com.jh.server.http.application.GYApplication - request ########  :HttpRequest [method=GET, protocol=HTTP/1.1, requestUri=, remoteAddress=/0:0:0:0:0:0:0:1:56744, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}, parameterMap={TestServelt?tmp=[1], tmp=[2]}, timeStamp=Sun Sep 15 17:10:12 KST 2019, isNormal=true, hasQueryString=true]
+17:10:36,111 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+17:10:36,112 - DEBUG com.jh.server.http.application.GYApplication - request ########  :HttpRequest [method=GET, protocol=HTTP/1.1, requestUri=, remoteAddress=/0:0:0:0:0:0:0:1:56855, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=cross-site, Host=localhost:8080, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}, parameterMap={TestServelt?tmp=[1], tmp=[2]}, timeStamp=Sun Sep 15 17:10:36 KST 2019, isNormal=true, hasQueryString=true]
+17:11:46,374 - INFO com.jh.custom.config.HttpConfigDefault - [Sun Sep 15 17:11:46 KST 2019] Init http configuration [Default configuration]
+17:11:46,376 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+17:11:46,376 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+17:11:46,376 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+17:11:46,378 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+17:11:46,378 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+17:11:46,378 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+17:11:46,388 - INFO com.jh.server.GYServer - Start server..
+17:11:48,914 - DEBUG com.jh.server.http.request.HttpRequest - [, TestServelt?tmp=1&tmp=2]  $#%^!@$#%@$%#%@$#%^$#@!$%^#@!$%^
+17:11:48,938 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+17:11:48,938 - DEBUG com.jh.server.http.application.GYApplication - request ########  :HttpRequest [method=GET, protocol=HTTP/1.1, requestUri=, remoteAddress=/0:0:0:0:0:0:0:1:57149, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}, parameterMap={TestServelt?tmp=[1], tmp=[2]}, timeStamp=Sun Sep 15 17:11:48 KST 2019, isNormal=true, hasQueryString=true]
+17:11:48,944 - DEBUG com.jh.server.http.request.HttpRequest - [, TestServelt?tmp=1&tmp=2]  $#%^!@$#%@$%#%@$#%^$#@!$%^#@!$%^
+17:11:48,944 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+17:11:48,945 - DEBUG com.jh.server.http.application.GYApplication - request ########  :HttpRequest [method=GET, protocol=HTTP/1.1, requestUri=, remoteAddress=/0:0:0:0:0:0:0:1:57150, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}, parameterMap={TestServelt?tmp=[1], tmp=[2]}, timeStamp=Sun Sep 15 17:11:48 KST 2019, isNormal=true, hasQueryString=true]
+17:11:48,947 - DEBUG com.jh.server.http.request.HttpRequest - [, TestServelt?tmp=1&tmp=2]  $#%^!@$#%@$%#%@$#%^$#@!$%^#@!$%^
+17:11:48,947 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+17:11:48,949 - DEBUG com.jh.server.http.application.GYApplication - request ########  :HttpRequest [method=GET, protocol=HTTP/1.1, requestUri=, remoteAddress=/0:0:0:0:0:0:0:1:57151, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}, parameterMap={TestServelt?tmp=[1], tmp=[2]}, timeStamp=Sun Sep 15 17:11:48 KST 2019, isNormal=true, hasQueryString=true]
+17:12:05,228 - INFO com.jh.custom.config.HttpConfigDefault - [Sun Sep 15 17:12:05 KST 2019] Init http configuration [Default configuration]
+17:12:05,231 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+17:12:05,232 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+17:12:05,232 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+17:12:05,234 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+17:12:05,234 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+17:12:05,234 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+17:12:05,244 - INFO com.jh.server.GYServer - Start server..
+17:12:06,813 - DEBUG com.jh.server.http.request.HttpRequest - [/TestServelt, tmp=1&tmp=2]  $#%^!@$#%@$%#%@$#%^$#@!$%^#@!$%^
+17:12:06,839 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+17:12:06,839 - DEBUG com.jh.server.http.application.GYApplication - request ########  :HttpRequest [method=GET, protocol=HTTP/1.1, requestUri=/TestServelt, remoteAddress=/0:0:0:0:0:0:0:1:57225, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}, parameterMap={tmp=[1, 2]}, timeStamp=Sun Sep 15 17:12:06 KST 2019, isNormal=true, hasQueryString=true]
+17:12:23,773 - DEBUG com.jh.server.http.request.HttpRequest - [/TestServelt, tmp=1&tmp=2&tmp2=3]  $#%^!@$#%@$%#%@$#%^$#@!$%^#@!$%^
+17:12:23,774 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+17:12:23,774 - DEBUG com.jh.server.http.application.GYApplication - request ########  :HttpRequest [method=GET, protocol=HTTP/1.1, requestUri=/TestServelt, remoteAddress=/0:0:0:0:0:0:0:1:57295, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}, parameterMap={tmp=[1, 2], tmp2=[3]}, timeStamp=Sun Sep 15 17:12:23 KST 2019, isNormal=true, hasQueryString=true]
+17:18:02,408 - DEBUG com.jh.server.http.request.HttpRequest - [/index.html, tmp=1&tmp=2&tmp2=3]  $#%^!@$#%@$%#%@$#%^$#@!$%^#@!$%^
+17:18:02,409 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+17:18:02,411 - DEBUG com.jh.server.http.application.GYApplication - request ########  :HttpRequest [method=GET, protocol=HTTP/1.1, requestUri=/index.html, remoteAddress=/0:0:0:0:0:0:0:1:58673, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}, parameterMap={tmp=[1, 2], tmp2=[3]}, timeStamp=Sun Sep 15 17:18:02 KST 2019, isNormal=true, hasQueryString=true]
+17:18:31,867 - DEBUG com.jh.server.http.request.HttpRequest - [/index.html]  $#%^!@$#%@$%#%@$#%^$#@!$%^#@!$%^
+17:18:31,867 - INFO com.jh.server.http.request.HttpRequest - (Success)End Generate Request Object
+17:18:31,868 - DEBUG com.jh.server.http.application.GYApplication - request ########  :HttpRequest [method=GET, protocol=HTTP/1.1, requestUri=/index.html, remoteAddress=/0:0:0:0:0:0:0:1:58794, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}, parameterMap=null, timeStamp=Sun Sep 15 17:18:31 KST 2019, isNormal=true, hasQueryString=false]
+17:44:18,413 - INFO com.jh.custom.config.HttpConfigDefault - [Sun Sep 15 17:44:18 KST 2019] Init http configuration [Default configuration]
+17:44:18,416 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+17:44:18,416 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+17:44:18,416 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+17:44:18,418 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+17:44:18,418 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+17:44:18,418 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+17:44:18,427 - INFO com.jh.server.GYServer - Start server..
+17:44:42,817 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+17:44:42,819 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+17:44:42,819 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+17:44:42,819 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+17:44:42,819 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+17:44:42,819 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+17:44:42,820 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+17:44:42,821 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+17:44:42,823 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+17:44:42,824 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+17:44:42,824 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+17:44:42,824 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+17:44:42,826 - INFO com.jh.server.http.request.HttpGYRequest - (Success)End Generate Request Object
+17:44:42,826 - DEBUG com.jh.server.http.application.GYApplication - request ########  :HttpRequest [method=GET, protocol=HTTP/1.1, requestUri=/index.html, remoteAddress=/0:0:0:0:0:0:0:1:65153, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}, parameterMap=null, timeStamp=Sun Sep 15 17:44:42 KST 2019, isNormal=true, hasQueryString=false]
+17:45:10,207 - INFO com.jh.custom.config.HttpConfigDefault - [Sun Sep 15 17:45:10 KST 2019] Init http configuration [Default configuration]
+17:45:10,209 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+17:45:10,209 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+17:45:10,209 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+17:45:10,211 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+17:45:10,211 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+17:45:10,211 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+17:45:10,222 - INFO com.jh.server.GYServer - Start server..
+17:45:13,157 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+17:45:13,157 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+17:45:13,157 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+17:45:13,158 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+17:45:13,158 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+17:45:13,158 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+17:45:13,159 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+17:45:13,159 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+17:45:13,161 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+17:45:13,161 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+17:45:13,161 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+17:45:13,161 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+17:45:13,163 - INFO com.jh.server.http.request.HttpGYRequest - (Success)End Generate Request Object
+17:45:13,164 - DEBUG com.jh.server.http.application.GYApplication - request ########  :HttpRequest [method=GET, protocol=HTTP/1.1, requestUri=/index.html, remoteAddress=/0:0:0:0:0:0:0:1:65277, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}, parameterMap=null, timeStamp=Sun Sep 15 17:45:13 KST 2019, isNormal=true, hasQueryString=false]
+17:48:39,023 - INFO com.jh.custom.config.HttpConfigDefault - [Sun Sep 15 17:48:39 KST 2019] Init http configuration [Default configuration]
+17:48:39,025 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+17:48:39,025 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+17:48:39,025 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+17:48:39,027 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+17:48:39,027 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+17:48:39,027 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+17:48:39,037 - INFO com.jh.server.GYServer - Start server..
+17:48:41,760 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+17:48:41,760 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+17:48:41,761 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+17:48:41,761 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+17:48:41,761 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+17:48:41,761 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+17:48:41,762 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+17:48:41,763 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+17:48:41,764 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+17:48:41,765 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+17:48:41,765 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+17:48:41,765 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+17:48:41,766 - INFO com.jh.server.http.request.HttpGYRequest - (Success)End Generate Request Object
+17:48:41,766 - DEBUG com.jh.server.http.application.GYApplication - request ########  :HttpRequest [method=GET, protocol=HTTP/1.1, requestUri=/index.html, remoteAddress=/0:0:0:0:0:0:0:1:49752, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}, parameterMap=null, timeStamp=Sun Sep 15 17:48:41 KST 2019, isNormal=true, hasQueryString=false]
+17:50:47,277 - INFO com.jh.custom.config.HttpConfigDefault - [Sun Sep 15 17:50:47 KST 2019] Init http configuration [Default configuration]
+17:50:47,278 - INFO com.jh.custom.config.HttpConfigDefault - PORT: 		8080
+17:50:47,278 - INFO com.jh.custom.config.HttpConfigDefault - ROOT_PATH: 	
+17:50:47,279 - INFO com.jh.custom.config.HttpConfigDefault - RESOURCE_PATH: 	resources/static/
+17:50:47,280 - INFO com.jh.custom.config.HttpConfigDefault - WELCOME_FILE: 	resources/static/index.html
+17:50:47,281 - INFO com.jh.custom.config.HttpConfigDefault - NOT_FOUND_FILE: 	resources/static/404.html
+17:50:47,281 - INFO com.jh.custom.config.HttpConfigDefault - ERROR_FILE: 		resources/static/error.html
+17:50:47,290 - INFO com.jh.server.GYServer - Start server..
+17:50:50,153 - INFO com.jh.server.http.request.HttpGYRequest - (Success)End Generate Request Object
+17:50:50,154 - DEBUG com.jh.server.http.application.GYApplication - request ########  :HttpRequest [method=GET, protocol=HTTP/1.1, requestUri=/index.html, remoteAddress=/0:0:0:0:0:0:0:1:50268, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}, parameterMap=null, timeStamp=Sun Sep 15 17:50:50 KST 2019, isNormal=true, hasQueryString=false]
+17:50:50,761 - INFO com.jh.server.http.request.HttpGYRequest - (Success)End Generate Request Object
+17:50:50,761 - DEBUG com.jh.server.http.application.GYApplication - request ########  :HttpRequest [method=GET, protocol=HTTP/1.1, requestUri=/index.html, remoteAddress=/0:0:0:0:0:0:0:1:50269, headerMap={Cache-Control=no-cache, Accept=text/html,application/xhtml+xml,application/xml;q=0.9,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3, Upgrade-Insecure-Requests=1, Connection=keep-alive, User-Agent=Mozilla/5.0 (Macintosh; Intel Mac OS X 10_13_6) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/76.0.3809.132 Safari/537.36, Sec-Fetch-Site=none, Host=localhost:8080, Sec-Fetch-User=?1, Pragma=no-cache, Accept-Encoding=gzip, deflate, br, Accept-Language=ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7, Sec-Fetch-Mode=navigate}, parameterMap=null, timeStamp=Sun Sep 15 17:50:50 KST 2019, isNormal=true, hasQueryString=false]
