@@ -4,8 +4,8 @@
 ```java
   # only use this
   public static void main(String[] args) {
-		Server ap = new GYServer();
-		ap.start();
-	}
+	Server ap = new GYServer();
+	ap.start();
+}
 
 ```
