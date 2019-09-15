@@ -18,15 +18,13 @@ public class HttpConfigDefault implements HttpConfig{
 	
 	private static final Properties HTTP_CONFIG_PROPERTIES = PropertiesUtils.readProperties("properties/http/http_config.properties");
 	
-	//default html files
 	static final String WELCOME_FILE;
 	static final String NOT_FOUND_FILE;
 	static final String ERROR_FILE;
-	//default path
+	
 	static final String ROOT_PATH;
 	static final String RESOURCE_PATH;
 	
-	//default socket config
 	static final int PORT;
 	
 	static final boolean isDefault = true;
@@ -39,19 +37,19 @@ public class HttpConfigDefault implements HttpConfig{
 		Date date = new Date();
 		logger.info("["+date+"] Init http configuration [Default configuration]");
 		
-		ROOT_PATH = HTTP_CONFIG_PROPERTIES.getProperty("server.http.path.root");
-		RESOURCE_PATH = HTTP_CONFIG_PROPERTIES.getProperty("server.http.path.resource");
+		ROOT_PATH = HTTP_CONFIG_PROPERTIES.getProperty("server.http.path.root","");
+		RESOURCE_PATH = HTTP_CONFIG_PROPERTIES.getProperty("server.http.path.resource","resources/static/");
 		
 		WELCOME_FILE = RESOURCE_PATH+
-				HTTP_CONFIG_PROPERTIES.getProperty("server.http.web.welcome-file");
+				HTTP_CONFIG_PROPERTIES.getProperty("server.http.web.welcome-file","index.html");
 		
 		NOT_FOUND_FILE = RESOURCE_PATH+
-				HTTP_CONFIG_PROPERTIES.getProperty("server.http.web.not-found-file");
+				HTTP_CONFIG_PROPERTIES.getProperty("server.http.web.not-found-file","404.html");
 		
 		ERROR_FILE = RESOURCE_PATH+
-				HTTP_CONFIG_PROPERTIES.getProperty("server.http.web.error-file");
+				HTTP_CONFIG_PROPERTIES.getProperty("server.http.web.error-file","error.html");
 	
-		PORT = Integer.parseInt(HTTP_CONFIG_PROPERTIES.getProperty("server.http.port"));
+		PORT = Integer.parseInt(HTTP_CONFIG_PROPERTIES.getProperty("server.http.port","8080"));
 		
 	}
 
