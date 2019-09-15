@@ -44,7 +44,7 @@ public class GYServer extends Server{
 			while (true) {
 				GYApplication client = null;
 				try {
-					client = new GYApplication(serverSocket.accept(),httpConfig);
+					client = new GYApplication(serverSocket.accept(), httpConfig);
 					
 					threadPool.submit(client);
 					

@@ -1,49 +1,32 @@
 package com.jh.test;
 
-public class TestMaiinApplication implements Runnable{
-	
-	
-	
-	
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.List;
+import java.util.Map;
+
+import com.google.common.base.Splitter;
+import com.google.common.base.Splitter.MapSplitter;
+
+public class TestMaiinApplication{
+		
 	public static void main(String args [])  {
-		
-		
-		for (int i =0;i<3;i++) {
-			TestMaiinApplication tt = new TestMaiinApplication();
-			
-			
-			Thread th = new Thread(tt);
-			
-			th.start();
-			
-			
-			
-		}
-	
-		
-		
-		
-	}
-
-	@Override
-	public void run() {
-		int k = (int) (Math.random()*100);
-		try {
-			for (int i =0;i<10;i++) {
-				Thread.sleep(1000);
-				
-				System.out.println("##"+k+"##"+i);
+		String queryString = "tmp=123&tmp2=123&tmp=3";
+		List<String> paramList = Splitter.on('&')
+				.trimResults().splitToList(queryString);
+		Map<String,List<String>> parameterMap = new HashMap<>();
+		for (String param : paramList) {
+			String key	=  param.split("=",2)[0];
+			String value = param.split("=",2)[1];
+			if (parameterMap.containsKey(key)) {
+				parameterMap.get(key).add(value);
+			}else {
+				parameterMap.put(key,new ArrayList<String>());
+				parameterMap.get(key).add(value);
 			}
-			
-			
-			
-			
-		} catch (InterruptedException e) {
-			
-			e.printStackTrace();
 		}
+		System.out.println(parameterMap);
+		
 		
 	}
-	
-
 }

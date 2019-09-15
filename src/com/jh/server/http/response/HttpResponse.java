@@ -3,13 +3,13 @@ package com.jh.server.http.response;
 import java.io.BufferedOutputStream;
 import java.io.File;
 import java.io.FileInputStream;
-import java.io.FileNotFoundException;
 import java.io.IOException;
 import java.io.PrintWriter;
 import java.net.Socket;
 import java.util.Date;
 
 import com.jh.custom.config.HttpConfig;
+import com.jh.server.http.request.HttpGYRequest;
 import com.jh.server.http.request.HttpRequest;
 
 public class HttpResponse {
@@ -40,10 +40,10 @@ public class HttpResponse {
 		
 		  
 		
-		if (request.getUri() != null && request.getUri().equals("/")) {
+		if (request.getRequestUri() != null && request.getRequestUri().equals("/")) {
 			outFile = new File(httpConfig.getWelcomeFile());
-		}else if (request.getUri() != null) {
-			outFile = new File(httpConfig.getResourcePath(),request.getUri());
+		}else if (request.getRequestUri() != null) {
+			outFile = new File(httpConfig.getResourcePath(),request.getRequestUri());
 			
 			if (!outFile.exists()) {
 				outFile = new File(httpConfig.getNotFoundFile());

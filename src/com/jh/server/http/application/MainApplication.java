@@ -1,3 +1,4 @@
+/*
 package com.jh.server.http.application;
 
 import java.io.BufferedOutputStream;
@@ -19,7 +20,7 @@ import javax.annotation.Resource;
 import com.jh.custom.config.HttpConfig;
 import com.jh.custom.config.HttpConfigDefault;
 import com.jh.custom.config.HttpConfig;
-import com.jh.server.http.request.HttpRequest;
+import com.jh.server.http.request.HttpGYRequest;
 
 public class MainApplication  extends GYApplication implements Runnable {
 
@@ -96,7 +97,7 @@ public class MainApplication  extends GYApplication implements Runnable {
 			// get binary output stream to client (for requested data)
 			dataOut = new BufferedOutputStream(socket.getOutputStream());
 			
-			HttpRequest request = new HttpRequest(socket);
+			HttpGYRequest request = new HttpGYRequest(socket);
 			
 			if (request.isNormal()) {
 				
@@ -238,3 +239,4 @@ public class MainApplication  extends GYApplication implements Runnable {
 	}
 
 }
+*/
